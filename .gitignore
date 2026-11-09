@@ -12,7 +12,6 @@
 /auth.json
 /node_modules
 /public/build
-/public/fonts-manifest.dev.json
 /public/hot
 /public/storage
 /storage/*.key
@@ -25,4 +24,4 @@ Thumbs.db
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
-config.bat
+.gitignore
